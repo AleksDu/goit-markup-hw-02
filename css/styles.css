@@ -209,3 +209,57 @@ line-height: 24px;
 letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
  }
+
+ .footer-mail:hover, .footer-tel:focus,
+ .footer-tel:hover, .footer-mail:focus{
+     color: #2196f3;
+ }
+ .footer-mail:active{
+     color: #2196f3;
+ }
+.nav-under-header>li>a{
+    font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+ .nav-under-header-all{
+     font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+background: #2196F3;
+/* shadow-middle */
+box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+ }
+
+ .nav-under-header>li>a:hover, .nav-under-header>li>a:focus,
+ .nav-under-header>li>a:active{
+     color: #2196f3;
+ }
+
+ .progects-title{
+     font-weight: bold;
+font-size: 18px;
+line-height: 36px;
+/* identical to box height, or 200% */
+letter-spacing: 0.06em;
+color: #212121;
+ }
+
+ .progects-text{
+     font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+letter-spacing: 0.03em;
+color: #757575;
+ }
