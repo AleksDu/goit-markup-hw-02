@@ -133,8 +133,8 @@ color: #FFFFFF;
 
 /* ========Features============ */
 
-.features>h3{
-font-weight: bold;
+.features-title{
+font-weight: 700;
 font-size: 14px;
 line-height: 1.142;
 letter-spacing: 0.03em;
@@ -258,7 +258,7 @@ border-radius: 4px;
 /* ========Portfolio progects============ */
  
 .progects-title{
-     font-weight: bold;
+     font-weight: 700;
 font-size: 18px;
 line-height: 2;
 /* identical to box height, or 200% */
